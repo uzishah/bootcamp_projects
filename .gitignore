@@ -1,1 +1,6 @@
 *.pem
+*.env
+.env
+CDC pipeline/
+**/.env
+.claude/
